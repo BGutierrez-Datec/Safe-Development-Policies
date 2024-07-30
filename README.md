@@ -40,7 +40,7 @@
    - Documentar quién tiene acceso al código fuente y las configuraciones del desarrollo.
 
 10. **Responsabilidades:**
-    - Software Factory debe ejecutar todas las etapas del ciclo de desarrollo seguro.
+    - AMS debe ejecutar todas las etapas del ciclo de desarrollo seguro.
     - El Área de Seguridad de la Información debe realizar evaluaciones de riesgos, análisis de amenazas, pruebas de seguridad y gestión de incidentes.
 
 ### Qué no se debe hacer:
@@ -82,5 +82,5 @@
    - No dejar de documentar quién tiene acceso al código fuente.
 
 10. **Responsabilidades:**
-    - Software Factory no debe descuidar ninguna etapa del ciclo de desarrollo seguro.
+    - AMS no debe descuidar ninguna etapa del ciclo de desarrollo seguro.
     - El Área de Seguridad de la Información no debe omitir evaluaciones de riesgos, análisis de amenazas, pruebas de seguridad y gestión de incidentes.
